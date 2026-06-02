@@ -1,0 +1,4 @@
+# 每行一个微信公众号文章链接，# 开头为注释
+# 用法：wechat-mp batch examples/urls.txt --out-dir reports
+# https://mp.weixin.qq.com/s/xxxxxxxx
+# https://mp.weixin.qq.com/s/yyyyyyyy

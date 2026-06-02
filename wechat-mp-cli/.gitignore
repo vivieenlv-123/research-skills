@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# 本地产物
+reports/
+.tmp-lib/
+*.local.json
+
+# macOS
+.DS_Store
